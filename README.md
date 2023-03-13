@@ -1,0 +1,1 @@
+# azure-store-client-adapter
